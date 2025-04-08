@@ -1,6 +1,6 @@
 <!-- app.vue -->
 <template>
-  <div class="min-h-screen w-full">
+  <div class="">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>

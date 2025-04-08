@@ -1,6 +1,6 @@
 <!-- pages/index.vue -->
 <template>
-    <div class="w-full ">
+    <div class="">
       <ResumeHeader />
     </div>
   </template>

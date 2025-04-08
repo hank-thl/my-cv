@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-angled {
+    clip-path: polygon(0 0, 100% 0, 100% 95%, 0% 100%);
+  }
